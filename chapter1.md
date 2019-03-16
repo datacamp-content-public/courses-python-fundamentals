@@ -66,10 +66,10 @@ Instruct the computer to calculate 12 + 8 in the code editor and then hit submit
 
 `@solution`
 ```{python}
-
+12 + 8
 ```
 
 `@sct`
 ```{python}
-has_equal_value(20)
+Ex().check_object().has_equal_value()
 ```
