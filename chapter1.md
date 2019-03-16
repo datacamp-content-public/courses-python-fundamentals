@@ -36,9 +36,9 @@ xp: 100
 
 There's been a lot of enthusiasm around data science recently. Using data science, people have been able to do some amazing things with computer programming:
 
-AlphaGo through Reinforcement learning to beat the world champion at Go
-Self-Driving Cars through Deep learning for image recognition
-Smart Devices which use Natural Language Processing and many more.
+1. AlphaGo through Reinforcement learning to beat the world champion at Go
+2. Self-Driving Cars through Deep learning for image recognition
+3. Smart Devices which use Natural Language Processing and much more
 
 All this is done by making a computer compute billions of computations. In order to do this we must give the computer instructions. When we do this, we say that we are programming the computer. The instructions we give to the computer must be in a certain programming language and in our case we will be using a programming language called python.
 
