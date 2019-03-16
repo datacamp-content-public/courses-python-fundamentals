@@ -4,7 +4,7 @@ description: 'Chapter description goes here.'
 free_preview: true
 ---
 
-## Insert exercise title here
+## Welcome to Python Fundamentals For Data Science
 
 ```yaml
 type: PureMultipleChoiceExercise
