@@ -18,7 +18,8 @@ In this course we will be teaching you the fundamentals of python programming as
 
 
 `@possible_answers`
-[Yes]
+- [Yes]
+- No
 
 `@feedback`
 
@@ -46,7 +47,6 @@ We begin by telling the computer to add two numbers together.
 ```
 12 + 8
 ```
-
 
 `@instructions`
 Instruct the computer to calculate 12 + 8 in the code editor and then hit submit answer.
