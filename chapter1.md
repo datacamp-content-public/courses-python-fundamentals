@@ -18,7 +18,8 @@ In this course we will be teaching you the fundamentals of python programming as
 
 
 `@possible_answers`
-[Yes], no
+[Yes]
+No
 
 `@feedback`
 
